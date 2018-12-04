@@ -1,0 +1,18 @@
+{
+	"en": {
+		"langdesc": "English",
+		"emailaddress": "email address",
+		"emailhelp": "we would secure this address",
+		"password": "password",
+		"check": "check me out",
+		"submit" : "save"
+	},
+	"bm": {
+		"langdesc": "ျမန္မာ",
+		"emailaddress": "အီးေမးလိပ္စာ",
+		"emailhelp": "အီးေမးလိပ္စာ ကို လံုျခံု ေအာင္သိမ္းပါမည္",
+		"password": "လိွုုု့ဝွက္ကုဒ္",
+		"check": "စစ္ေဆးရန္",
+		"submit" : "သိမ္းဆည္းရန္"
+	}
+}
